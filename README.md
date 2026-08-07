@@ -19,7 +19,7 @@
 |11 - Septiembre | Cuerpo | Investigar - meditar - escribir |
 |18 - Septiembre | Feriado ||
 |25 - Septiembre | Motivacion II |Varios Ejercicios|
-|3 - Octubre | Cierre  | Cierre primera mitad + IA Generativa | 
+|3 - Octubre | Cierre  | Cierre primera mitad | 
 |10 - Octubre |  IA Generativa | IA Generativa | 
 |17 - Octubre | Presentacion Seminario II + Entrega primera version del Abstract |  |
 |24 - Octubre | Presentacion Seminario II | |
