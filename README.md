@@ -15,16 +15,16 @@
 |14-Agosto | Motivación I | Construir visión, reconocer pasado|
 |21 - Agosto| Planificación y Organización | Sacar Agenda|
 |28 - Agosto | Explorar con un Plan | Cadena de Pensamiento |
-|4 - Septiembre | Bloqueo, mitos, miedos | Miedo al lector hostil |
-|11 - Septiembre | Cuerpo | Investigar - meditar - escribir |
+|4 - Septiembre | No hay clases |
+|11 - Septiembre | Bloqueo, mitos, miedos | Miedo al lector hostil |
 |18 - Septiembre | Feriado ||
-|25 - Septiembre | Motivacion II |Varios Ejercicios|
-|3 - Octubre | Cierre  | Cierre primera mitad | 
-|10 - Octubre |  IA Generativa | IA Generativa | 
-|17 - Octubre | Presentacion Seminario II + Entrega primera version del Abstract |  |
-|24 - Octubre | Presentacion Seminario II | |
-|31 - Octubre | Presentacion Seminario II | |
-|07 - Noviembre | Presentacion Seminario II | |
-|14 - Noviembre | Presentacion Seminario II |  |
-|21 - Noviembre | Presentacion Seminario II | |
-|28 - Noviembre | Presentacion Seminario II | |
+|25 - Septiembre | Cuerpo | Investigar - meditar - escribir |
+|2 - Octubre | Motivacion II |Varios Ejercicios| 
+|9 - Octubre | Cierre  | Cierre primera mitad |
+|16 - Octubre |  IA Generativa | IA Generativa | 
+|23 - Octubre | Presentacion Seminario II + Entrega primera version del Abstract |  |
+|30 - Octubre | Presentacion Seminario II | |
+|06 - Noviembre | Presentacion Seminario II | |
+|13 - Noviembre | Presentacion Seminario II |  |
+|20 - Noviembre | Presentacion Seminario II | |
+|27 - Noviembre | Presentacion Seminario II | |
