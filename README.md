@@ -27,4 +27,4 @@
 |06 - Noviembre | Presentacion Seminario II | |
 |13 - Noviembre | Presentacion Seminario II | Sofía Nicolai |
 |20 - Noviembre | Presentacion Seminario II | |
-|27 - Noviembre | Presentacion Seminario II | |
+|27 - Noviembre | Presentacion Seminario II | Cristian Hinostroza|
