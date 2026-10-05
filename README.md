@@ -26,5 +26,5 @@
 |30 - Octubre | Presentacion Seminario II | Presenta: David Leal |
 |06 - Noviembre | Presentacion Seminario II | |
 |13 - Noviembre | Presentacion Seminario II | Sofía Nicolai |
-|20 - Noviembre | Presentacion Seminario II | |
+|20 - Noviembre | Presentacion Seminario II | Atsuko Galaz |
 |27 - Noviembre | Presentacion Seminario II | Cristian Hinostroza|
