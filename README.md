@@ -22,9 +22,9 @@
 |2 - Octubre | Motivacion II |Varios Ejercicios| 
 |9 - Octubre | Cierre  | Cierre primera mitad |
 |16 - Octubre |  IA Generativa | IA Generativa | 
-|23 - Octubre | Presentacion Seminario II + Entrega primera version del Abstract |  |
+|23 - Octubre | Presentacion Seminario II (+ Entrega primera version del Abstract) |  |
 |30 - Octubre | Presentacion Seminario II | Presenta: David Leal |
 |06 - Noviembre | Presentacion Seminario II | |
-|13 - Noviembre | Presentacion Seminario II | Sofía Nicolai |
-|20 - Noviembre | Presentacion Seminario II | Atsuko Galaz |
-|27 - Noviembre | Presentacion Seminario II | Cristian Hinostroza|
+|13 - Noviembre | Presentacion Seminario II | Presenta: Sofía Nicolai |
+|20 - Noviembre | Presentacion Seminario II | Presenta: Atsuko Galaz |
+|27 - Noviembre | Presentacion Seminario II | Presenta: Cristian Hinostroza|
