@@ -1,4 +1,4 @@
-##Instrucciones para la tarea: 
+## Instrucciones para la tarea: 
 
  Elige un tema que te interese, que sea parte de tu investigación. Escribe un paper usando solo IA. Más específicamente: 
  - escribe unas ideas que funcionen como abstract. 
