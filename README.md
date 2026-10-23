@@ -27,4 +27,4 @@
 |06 - Noviembre | Presentacion Seminario II | |
 |13 - Noviembre | Presentacion Seminario II | Presentan: Sofía Nicolai, Valentina Silva |
 |20 - Noviembre | Presentacion Seminario II | Presentan: Atsuko Galaz, Gabriel Acevedo |
-|27 - Noviembre | Presentacion Seminario II | Presenta: Cristian Hinostroza|
+|27 - Noviembre | Presentacion Seminario II | Presenta: Cristian Hinostroza, Pablo Poblete|
